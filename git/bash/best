@@ -1,6 +1,2 @@
-#!/bin/bash
-<<<<<<< HEAD
-echo "This School is so cool!"
-=======
+#!bin/bash
 echo "Best School"
->>>>>>> origin
